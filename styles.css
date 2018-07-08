@@ -1,0 +1,60 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+p {
+    display: inline-block;
+}
+
+a {
+    display: block;
+    margin-bottom: 35px;
+    text-decoration: none;
+    color: #D44474;
+    border-bottom: 2px solid #DBABBB;
+}
+
+a:hover {
+    color: #DBABBB;
+}
+
+.contactLabel {
+    margin: 20px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #D44474;
+}
+
+button {
+    background-color: #D44474;
+    border: none;
+    padding: 10px;
+    margin: 9px;
+    width: 191px;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 1px 1px #DBABBB;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #D67A99;
+}
+
+form {
+    width: 425px;
+    margin: 0 auto;
+}
